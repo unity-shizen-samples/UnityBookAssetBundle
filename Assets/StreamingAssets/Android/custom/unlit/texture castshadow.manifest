@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1058764563
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b02e9c3ebe947bd25bcb26ce057baf0f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1089fea0bc7521f04d7ee9836950478
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/DemoAssets/Materials/Custom-Unlit-Shadow.shader
+Dependencies: []

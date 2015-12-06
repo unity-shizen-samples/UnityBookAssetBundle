@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cube0
+      Dependencies:
+        Dependency_0: material0
+    Info_1:
+      Name: cube2
+      Dependencies:
+        Dependency_0: material2
+    Info_2:
+      Name: cube3
+      Dependencies:
+        Dependency_0: material3
+    Info_3:
+      Name: material3
+      Dependencies:
+        Dependency_0: custom/unlit/texture castshadow
+        Dependency_1: unitylogopattern0
+    Info_4:
+      Name: material0
+      Dependencies:
+        Dependency_0: custom/unlit/texture castshadow
+        Dependency_1: unitylogopattern0
+    Info_5:
+      Name: custom/unlit/texture castshadow
+      Dependencies: {}
+    Info_6:
+      Name: unitylogopattern0
+      Dependencies: {}
+    Info_7:
+      Name: simpletestcube
+      Dependencies: {}
+    Info_8:
+      Name: cube1
+      Dependencies:
+        Dependency_0: material1
+    Info_9:
+      Name: material1
+      Dependencies:
+        Dependency_0: custom/unlit/texture castshadow
+        Dependency_1: unitylogopattern1
+    Info_10:
+      Name: material2
+      Dependencies:
+        Dependency_0: custom/unlit/texture castshadow
+        Dependency_1: unitylogopattern2
+    Info_11:
+      Name: unitylogopattern1
+      Dependencies: {}
+    Info_12:
+      Name: unitylogopattern2
+      Dependencies: {}
+    Info_13:
+      Name: unitylogopatternbase
+      Dependencies: {}

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1573161124
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 07b9ca79ced686d3842dea424aecd9d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ac4ad4a9b4e5b2e0ba08f3ecef76be3c
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/DemoAssets/Materials/Material0.mat
+Dependencies:
+- /Users/a12347/Documents/work/Experiment/AssetBundleSample/UnityBookAssetBundle/Assets/StreamingAssets/iOS/custom/unlit/texture
+  castshadow
+- /Users/a12347/Documents/work/Experiment/AssetBundleSample/UnityBookAssetBundle/Assets/StreamingAssets/iOS/unitylogopattern0

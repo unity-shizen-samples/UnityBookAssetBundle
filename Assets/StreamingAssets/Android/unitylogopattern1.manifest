@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3135712860
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6b67cda0e3554e6ba46f6bc1e78f664
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7c0a6a24fc909dd95208e56e2ca96f9c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/DemoAssets/Materials/UnityLogoPattern1.psd
+Dependencies: []

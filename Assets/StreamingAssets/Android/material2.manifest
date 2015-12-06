@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1373301053
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e4cc2b0c7f51ada31f7de9f3fcd9871
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ac4ad4a9b4e5b2e0ba08f3ecef76be3c
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/DemoAssets/Materials/Material2.mat
+Dependencies:
+- /Users/a12347/Documents/work/Experiment/AssetBundleSample/UnityBookAssetBundle/Assets/StreamingAssets/Android/custom/unlit/texture
+  castshadow
+- /Users/a12347/Documents/work/Experiment/AssetBundleSample/UnityBookAssetBundle/Assets/StreamingAssets/Android/unitylogopattern2
